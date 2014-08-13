@@ -8,5 +8,7 @@ void main()
 }
 void add(int a,int b)
 {
+	printf("Addition is :");
   return(a+b);
 }
+
